@@ -14,6 +14,9 @@
         <module>mailstudy-order</module>
         <module>mailstudy-product</module>
         <module>mailstudy-ware</module>
+        <module>renren-fast</module>
+        <module>renren-generator</module>
+        <module>mailstudy-common</module>
     </modules>
 
 </project>
